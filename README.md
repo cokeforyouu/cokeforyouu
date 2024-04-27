@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cokeforyouu
-- 👀 I’m interested in learning how to do data analysis as well as improving myself in python and R!
-- 🌱 I’m currently learning data analysis with python
+- 👋 Hi, I’m @ChojoBear
+- 👀 I’m interested in learning python and basic scripting to prepare myself for the future!
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
